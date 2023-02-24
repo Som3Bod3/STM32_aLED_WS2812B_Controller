@@ -1,0 +1,26 @@
+-Zrobić pamieć do ikon:
+1. albo zrobic nowy program i zapisać ikony do pamięci flash ale max 5/6
+2. zrobic drugi bufor kolorów, i przy zmianie ikony na kolejną fazę po prostu wyświetlac drugi bufor i szykowac kolejny
+
+-pobrać programik do generowania instrukcji i napisac w pythonie konwersje na moje
+
+-dodać zapisywanie id ikony do flash i odczyt
+
+-dac opcje ikonek jako pierwszą w animacjach
+
+-przygotowac miejsce w programie na przyszłe wprowadzanie ikonek, animacji
+
+-dac wykrywanie przycisków w pętli while i zrobic je bez exti
+
+-sprawdzić jak zasilić płytkę z zasilacza i odpowiednio to zaprojektować
+
+- zaprojektować schemat elektryczny
+
+- wyciąć radiator do ledów dla chłodzenia
+
+- zaprojektować obudowe tak by:
+1. matryca ledów była obracalna
+2. klawiatura była dostępna od góry
+3. zasilanie było z tyłu
+4. Podstawa była zrównoważona
+5. był dostep do programowania mikrokontrolera
